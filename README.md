@@ -1,4 +1,4 @@
-# Shape Fit Mathematicall
+# Shape Fit Mathematically
 
 This is a console program that try to fit small triangles, rectangles or circles into big container triangle, rectangle or circle.
 
@@ -31,11 +31,10 @@ To start program and create .svg files that show shapes on browser type on your 
 ```
 ./MyProgram
 ```
-## Authors
+## Author
 
 * **Furkan Kalabalık** - *Initial work* - [programmer-furkan](https://github.com/programmer-furkan)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
