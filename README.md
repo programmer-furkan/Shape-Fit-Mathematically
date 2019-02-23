@@ -1,6 +1,6 @@
 # Shape Fit Mathematically
 
-This is a console program that try to fit small triangles, rectangles or circles into big container triangle, rectangle or circle.
+This is a console program that try to fit small triangles, rectangles or circles into big container triangle, rectangle or circle, mathematically and writes these shapes into a svg file that can be shown on browser.
 
 ## Getting Started
 
